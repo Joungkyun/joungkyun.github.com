@@ -20,6 +20,7 @@ I worked about 20 years as a service infra designer, and have a lot of experienc
     * modified PHP engine
      * impossible system shell injection ([mod_exec extension](https://github.com/OOPS-ORG-PHP/mod_execdir))
      * check malicious code about header of uploaded image file.
+    * [```oops-firewall```](http://svn.oops.org/wsvn/OOPS.oops-firewall): netfilter frontend
   * Trouble shooting using various experience.
   * Devops expert
   * And so on ..
@@ -33,12 +34,15 @@ My favorite languages :
   * Bash
   * Python
   * javascript
+  * CSS
   * HTML
   * and Korean and a little English :-)
 
 And I am developing follows:
 
   * Linux distribution ([AnNyung LInux](http://distrowatch.com/table.php?distribution=annyung))
+  * Firefox / Thunderbird l10n(ko) committer (https://wiki.mozilla.org/L10n:Teams:ko)
+  * [iPuTTY](https://github.com/iPuTTY/iPuTTY) maintainer : PuTTY terminal for Korean and added various functions
   * Daemon module
    * Apache / ProFTPd / Lighttpd / Nginx
   * PHP/Python/Perl C binding extension
@@ -49,8 +53,8 @@ And I am developing follows:
 
 If you want to contact, send email to joungkyun at gmail.com.
 
- * Personal site: http://oops.org (For Korean)
- * Personal Projects:
+ * ```Personal site```: http://oops.org (For Korean)
+ * ```Personal Projects```:
    * https://github.com/Joungkyun
    * https://github.com/OOPS-ORG-PHP (PHP extension and pear packages)
    * http://svn.oops.org (moving to github @Joungkyun now)
