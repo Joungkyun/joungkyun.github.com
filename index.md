@@ -44,7 +44,7 @@ And I am developing follows:
   * Firefox / Thunderbird [L10n(ko) committer](https://wiki.mozilla.org/L10n:Teams:ko)
   * [iPuTTY](https://github.com/iPuTTY/iPuTTY) maintainer : PuTTY terminal for Korean and added various functions
   * Daemon module
-   * Apache / ProFTPd / Lighttpd / Nginx
+    * Apache / ProFTPd / Lighttpd / Nginx
   * PHP/Python/Perl C binding extension
   * C/C++ libraries
   * PHP / Python / Perl library
