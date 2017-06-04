@@ -1,0 +1,8 @@
+title: Joungkyun.GitHub.com
+description: JoungKyun.Kim's Github project pages
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
