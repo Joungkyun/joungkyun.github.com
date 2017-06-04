@@ -41,7 +41,7 @@ My favorite languages :
 And I am developing follows:
 
   * Linux distribution ([AnNyung LInux](http://distrowatch.com/table.php?distribution=annyung))
-  * Firefox / Thunderbird l10n(ko) committer ([https://wiki.mozilla.org/L10n:Teams:ko](https://wiki.mozilla.org/L10n:Teams:ko))
+  * [Firefox / Thunderbird L10n(ko) committer](https://wiki.mozilla.org/L10n:Teams:ko)
   * [iPuTTY](https://github.com/iPuTTY/iPuTTY) maintainer : PuTTY terminal for Korean and added various functions
   * Daemon module
    * Apache / ProFTPd / Lighttpd / Nginx
